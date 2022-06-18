@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.red {
+  background-color: #F54391;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+.blue {
+  background-color: #61dafb;
+  border-radius: 50%;
+  height: 50px;
+  left: 25px;
+  position: relative;
+  top: 25px;
+  width: 50px;
+}
+
+.black {
+  background-color: #000000;
+  height: 100px;
+  width: 100px;
+}
+.white {
+  background-color: #ffffff;
+  height: 50px;
+  left: 25px;
+  position: relative;
+  top: 25px;
+  width: 50px;
+}
