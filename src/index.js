@@ -5,8 +5,8 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const user = {
-  firstName: "Tung",
-  lastName: "Nguyen"
+  firstName: "Lesson",
+  lastName: "JSX"
 }
 
 function formatName(user) {
